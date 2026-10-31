@@ -1,4 +1,4 @@
-# Motion-impossible-pet-buddy
+# pet-buddy
 https://drive.google.com/drive/folders/1gn-nsEw74QU7f52m-uiFpOqTP0ouyGFz?usp=sharing
 # Pet Buddy
 ### Your Pet's Best Friend!
